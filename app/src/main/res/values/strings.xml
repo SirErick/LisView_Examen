@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LisView_Examen</string>
+    <string-array name="paises">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+        <item>Pluton</item>
+
+    </string-array>
+</resources>
